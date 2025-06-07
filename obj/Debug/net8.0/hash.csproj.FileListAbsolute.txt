@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\hash\bin\Debug\net8.0\hash.exe
+C:\Users\Aluno\Desktop\hash\bin\Debug\net8.0\hash.deps.json
+C:\Users\Aluno\Desktop\hash\bin\Debug\net8.0\hash.runtimeconfig.json
+C:\Users\Aluno\Desktop\hash\bin\Debug\net8.0\hash.dll
+C:\Users\Aluno\Desktop\hash\bin\Debug\net8.0\hash.pdb
+C:\Users\Aluno\Desktop\hash\obj\Debug\net8.0\hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\hash\obj\Debug\net8.0\hash.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\hash\obj\Debug\net8.0\hash.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\hash\obj\Debug\net8.0\hash.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\hash\obj\Debug\net8.0\hash.sourcelink.json
+C:\Users\Aluno\Desktop\hash\obj\Debug\net8.0\hash.dll
+C:\Users\Aluno\Desktop\hash\obj\Debug\net8.0\refint\hash.dll
+C:\Users\Aluno\Desktop\hash\obj\Debug\net8.0\hash.pdb
+C:\Users\Aluno\Desktop\hash\obj\Debug\net8.0\hash.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\hash\obj\Debug\net8.0\ref\hash.dll

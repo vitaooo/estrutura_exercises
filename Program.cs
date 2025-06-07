@@ -54,20 +54,29 @@ string op = "0";
 int qtdCo1 = 0;
 while (op != "4")
 {
+    Console.Clear();
     Console.WriteLine("MENU");
+    Console.WriteLine();
     Console.WriteLine("1 - Inserir");
+    Console.WriteLine();
     Console.WriteLine("2 - Recuperar");
+    Console.WriteLine();
     Console.WriteLine("3 - informar");
+    Console.WriteLine();
     Console.WriteLine("4 - sair");
+    Console.WriteLine();
     op = Console.ReadLine();
     if (op == "1")
     {
+        Console.WriteLine();
         Console.Write("Nota: ");
         int nota = Convert.ToInt32(Console.ReadLine());
 
+        Console.WriteLine();
         Console.Write("Nome: ");
         string nome = Console.ReadLine();
 
+        Console.WriteLine();
         Console.Write("Email: ");
         string email = Console.ReadLine();
         InsereLinear(nota, nome, email, ref qtdCo1);
@@ -83,12 +92,16 @@ while (op != "4")
         }
         else
         {
+            Console.WriteLine();
             Console.WriteLine("Nome: " + vetor[pos].nome);
             Console.WriteLine("Email: " + vetor[pos].email);
+            Console.WriteLine();
         }
 
     } else if (op == "3")
         Console.WriteLine("Quantidade de colisões: " + qtdCo1);
+
+        Console.ReadKey();
 }
 
 
